@@ -1,0 +1,6 @@
+case_type_id,case_type
+1,Civil
+2,Criminal
+3,Labor
+4,Family
+5,Administrative

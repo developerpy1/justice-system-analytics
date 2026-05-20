@@ -1,0 +1,51 @@
+court_id,court_name,court_type,province
+1,Civil Court of Distrito Nacional,Civil Court,Distrito Nacional
+2,Criminal Court of Distrito Nacional,Criminal Court,Distrito Nacional
+3,Labor Court of Distrito Nacional,Labor Court,Distrito Nacional
+4,Family Court of Distrito Nacional,Family Court,Distrito Nacional
+5,Administrative Court of Distrito Nacional,Administrative Court,Distrito Nacional
+6,Civil Court of Santo Domingo,Civil Court,Santo Domingo
+7,Criminal Court of Santo Domingo,Criminal Court,Santo Domingo
+8,Labor Court of Santo Domingo,Labor Court,Santo Domingo
+9,Family Court of Santo Domingo,Family Court,Santo Domingo
+10,Administrative Court of Santo Domingo,Administrative Court,Santo Domingo
+11,Civil Court of Santiago,Civil Court,Santiago
+12,Criminal Court of Santiago,Criminal Court,Santiago
+13,Labor Court of Santiago,Labor Court,Santiago
+14,Family Court of Santiago,Family Court,Santiago
+15,Administrative Court of Santiago,Administrative Court,Santiago
+16,Civil Court of La Vega,Civil Court,La Vega
+17,Criminal Court of La Vega,Criminal Court,La Vega
+18,Labor Court of La Vega,Labor Court,La Vega
+19,Family Court of La Vega,Family Court,La Vega
+20,Administrative Court of La Vega,Administrative Court,La Vega
+21,Civil Court of San Cristóbal,Civil Court,San Cristóbal
+22,Criminal Court of San Cristóbal,Criminal Court,San Cristóbal
+23,Labor Court of San Cristóbal,Labor Court,San Cristóbal
+24,Family Court of San Cristóbal,Family Court,San Cristóbal
+25,Administrative Court of San Cristóbal,Administrative Court,San Cristóbal
+26,Civil Court of San Pedro de Macorís,Civil Court,San Pedro de Macorís
+27,Criminal Court of San Pedro de Macorís,Criminal Court,San Pedro de Macorís
+28,Labor Court of San Pedro de Macorís,Labor Court,San Pedro de Macorís
+29,Family Court of San Pedro de Macorís,Family Court,San Pedro de Macorís
+30,Administrative Court of San Pedro de Macorís,Administrative Court,San Pedro de Macorís
+31,Civil Court of Puerto Plata,Civil Court,Puerto Plata
+32,Criminal Court of Puerto Plata,Criminal Court,Puerto Plata
+33,Labor Court of Puerto Plata,Labor Court,Puerto Plata
+34,Family Court of Puerto Plata,Family Court,Puerto Plata
+35,Administrative Court of Puerto Plata,Administrative Court,Puerto Plata
+36,Civil Court of Duarte,Civil Court,Duarte
+37,Criminal Court of Duarte,Criminal Court,Duarte
+38,Labor Court of Duarte,Labor Court,Duarte
+39,Family Court of Duarte,Family Court,Duarte
+40,Administrative Court of Duarte,Administrative Court,Duarte
+41,Civil Court of La Romana,Civil Court,La Romana
+42,Criminal Court of La Romana,Criminal Court,La Romana
+43,Labor Court of La Romana,Labor Court,La Romana
+44,Family Court of La Romana,Family Court,La Romana
+45,Administrative Court of La Romana,Administrative Court,La Romana
+46,Civil Court of Monseñor Nouel,Civil Court,Monseñor Nouel
+47,Criminal Court of Monseñor Nouel,Criminal Court,Monseñor Nouel
+48,Labor Court of Monseñor Nouel,Labor Court,Monseñor Nouel
+49,Family Court of Monseñor Nouel,Family Court,Monseñor Nouel
+50,Administrative Court of Monseñor Nouel,Administrative Court,Monseñor Nouel
